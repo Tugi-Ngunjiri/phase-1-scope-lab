@@ -1,20 +1,28 @@
-customerName 
+constcustomerName 
  let x = (John)
- SetBestcustomerName 
+ print(John)
+ constSetBestcustomerName 
  let p = (Jane)
- bestCustomer
+ print(Jane)
+ constbestCustomer
  let C = 'not Bob'
- overwriteBestCustomer
+ print('not bob')
+ constoverwriteBestCustomer
  let K =(Mary)
- overwriteBestCustomer()
- let T = (ruby)
- leastFavoriteCustomer
+ print(Mary)
+constoverwriteBestCustomer
+ let T = (Ruby)
+ print(Ruby)
+constleastFavoriteCustomer
  let F =(Tom)
- changeLeastFavoriteCustomer
+ print(tom)
+ constchangeLeastFavoriteCustomer
  let o =(Cindy)
- changeLeastFavoriteCustomer
+ print(Cindy)
+ constchangeLeastFavoriteCustomer
  let i = (Gordon)
- changeLeastFavoriteCustomer
+ print(Gordon)
+ constchangeLeastFavoriteCustomer
  let D =(Diana)
-
+print(Diana)
 
